@@ -17,7 +17,7 @@ Standard library requirements:
 
 Custom library requirements:
 
-- [Arduino Joystick Library](install from https://github.com/MHeironimus/ArduinoJoystickLibrary)
+- [Arduino Joystick Library](https://github.com/MHeironimus/ArduinoJoystickLibrary)
 
 License:
 
